@@ -1,0 +1,8 @@
+body {
+    background-color: #181818;
+    font-family: system-ui, sans-serif;
+}
+
+body, button, input, textarea {
+    color: white;
+}

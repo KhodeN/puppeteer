@@ -1,0 +1,35 @@
+.auth-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.auth-page .logo {
+
+}
+
+.auth-page .title {
+    color: white;
+}
+
+.auth-page label {
+
+}
+
+.auth-page button {
+    background-color: transparent;
+    border: 0.1rem solid #E18005;
+    border-radius: 10rem;
+
+    margin-top: 1rem;
+    max-width: 5rem;
+    padding: 1rem;
+}
+
+.auth-page input {
+    background-color: transparent;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    border-bottom: 0.1rem solid #3D3D3D;
+}
